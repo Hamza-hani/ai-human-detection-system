@@ -34,9 +34,6 @@ A Flask-based machine learning project to detect whether uploaded content — im
 ├── requirements.txt
 └── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -79,11 +76,3 @@ Hamza-hani
 
 🌐 License
 MIT License. For educational & ethical purposes only.
-
-yaml
-Copy
-Edit
-
----
-
-Would you like me to zip your full project with this README and policy PDF included? ​:contentReference[oaicite:0]{index=0}
